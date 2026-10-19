@@ -9,12 +9,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  shared_preferences: ^2.2.2
-  file_picker: ^6.1.1
-  path_provider: ^2.1.1
-  url_launcher: ^6.2.4
-  google_fonts: ^6.1.0
-  cupertino_icons: ^1.0.6
+  shared_preferences: any
+  file_picker: any
+  path_provider: any
+  url_launcher: any
+  google_fonts: any
+  cupertino_icons: any
 
 flutter:
   uses-material-design: true
